@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: PE5I's Blog
 description: Project update and other blog posts
+lsi: false
+safe: true
+source: [_Blogs]
+incremental: false
+gist:
+  noscript: false
+  
